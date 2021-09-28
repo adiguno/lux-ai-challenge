@@ -13,6 +13,9 @@
 
     - Resources
         - wood
+          - regrow by 2.5%
+          - regrow if < 500
+          - no regrow if depleted
         - coal
         - uranium
     - Units
